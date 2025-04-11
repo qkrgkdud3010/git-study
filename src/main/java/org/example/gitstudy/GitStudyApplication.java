@@ -11,6 +11,8 @@ public class GitStudyApplication {
         System.out.println("New line");
         System.out.println("");
         System.out.println("a");
+        System.out.println("b");
+        System.out.println("c");
     }
 
 }
